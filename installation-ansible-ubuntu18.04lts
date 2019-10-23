@@ -1,0 +1,6 @@
+ sudo apt upgrade
+ apt show ansible
+ sudo apt install ansible
+ ansible --version
+ ansible
+ ansible localhost -m ping
